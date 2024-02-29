@@ -1,0 +1,4 @@
+Code: COMP133, credit hours: 3, topics: algorithms, introduction to c, functions, selection, loops, pointers, arrays, structs
+,
+Code: COMP2421, credit hours: 4, topics: recursion, time analysis, linked lists, stacks, queues, trees, bst, avl, splay, b_trees, hash, heaps, sorting, graphs
+,
