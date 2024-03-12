@@ -20,10 +20,20 @@ The Course Management System utilizes tree data structures to represent the hier
 
 ## Example Usage
 
+<details>
+  <summary>Click to view testing images</summary>
 ![image](https://github.com/MusabMasalmah/Tree_DataStructure_Project/assets/129512609/dbb3d4f6-5e45-4890-aa4a-67d202b7b7e0)
 ![image](https://github.com/MusabMasalmah/Tree_DataStructure_Project/assets/129512609/0284fa35-7644-41cf-b5e6-6987e29b17c7)
 ![image](https://github.com/MusabMasalmah/Tree_DataStructure_Project/assets/129512609/9b0198f2-6d0a-45e8-b969-728753e970f1)
 
+</details>
+
+ ## Note
+ - Feel free to take this project to see and learn from it. 
+
+ 
+ ## Auther
+ - Musab Masalmah. 
 
 
 
